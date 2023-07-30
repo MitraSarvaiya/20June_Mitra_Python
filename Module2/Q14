@@ -1,0 +1,6 @@
+#What are negative indexes and why are they used?
+
+Python uses negative indexing to operate on sequence objects like lists, arrays, strings, etc.
+ By using negative numbers as sequence indexes, negative indexing retrieves elements from the end of a list.
+
+

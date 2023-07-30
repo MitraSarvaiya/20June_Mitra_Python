@@ -1,0 +1,6 @@
+#4 How memory is managed in Python?
+
+Our program's objects and data structures are kept on Python's private heap, which is described 
+in the language's memory management documentation. We can focus on our code because the Python
+memory manager handles the majority of the memory management tasks.
+

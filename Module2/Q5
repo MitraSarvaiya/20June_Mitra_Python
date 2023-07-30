@@ -1,0 +1,5 @@
+#5 What is the purpose continue statement in python?
+
+The continue statement cancels every statement running in the iteration of a loop and moves the 
+control back to the top of the loop. In simple words, it continues to the next iteration when 
+a certain condition is reached. We can use the continue statement in the while and for loops.
