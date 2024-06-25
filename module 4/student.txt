@@ -1,0 +1,6 @@
+This is my file.
+NAME = Mitra
+CITY = Rajkot
+
+NAME = Sakshi
+CITY = Rajkot
